@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.school{
+    color: skyblue;
+    text-align: center;
+}
+.result{
+    color: skyblue;
+    text-align: center;
+}
+.and{
+    color: skyblue;
+    margin-left: 200px;
+}
+.and1{
+    color: skyblue;
+     margin-left: 450px;
+     margin-top: -20px;
+}
+.and2{
+    color: skyblue;
+    margin-left: 800px;
+    margin-top: -20px;
+} 
+.and3{
+    color: skyblue;
+    margin-left: 200px;
+
+}
+.sub{
+    background-color: yellow;
+}
+
+.main{
+    
+    color: rgb(181, 228, 13);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
